@@ -1,0 +1,6 @@
+{
+  "name": "教師每日時間規劃工具",
+  "description": "專為教師設計的每日時間與課表規劃工具，支援拖拉任務排序、可設定每週固定課表有課與空堂、隔日未完成任務移轉、以及雙視圖設計（每日規劃與每週總表）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
